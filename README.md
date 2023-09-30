@@ -16,7 +16,7 @@ This is a simple web-based exchange rate calculator that allows users to convert
 05. To swap the source and target currencies, click the "Swap" button.
 
 ## Demo
-[Exchange Rate Calculator](#your-live-demo-link)
+You can try the application live by visiting the following link: [Exchange Rate Calculator](#your-live-demo-link)
 
 ## Technologies Used
 - HTML
